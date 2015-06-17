@@ -1663,3 +1663,11 @@ pre[data-lang]::after {
   color: #fff;
   list-style-type: none;
 }
+
+.flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: row wrap;
+    width: 100%;
+}
